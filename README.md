@@ -1,7 +1,7 @@
 # Rock Paper Scissors Game
 
 ### Live Demo
-https://gitmostafa.github.io/rock-paper-scissors/
+https://mostafa-aboelmagd.github.io/rock-paper-scissors/
 
 ### Description
 * Fully Functional Rock Paper Scissors 1 Player Game
